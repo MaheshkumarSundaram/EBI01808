@@ -17,6 +17,12 @@ pip install Flask-Cors
 
 
 ### Run the API
+
+```
+python main.py
+```
+
+URL:
 ```
 http://127.0.0.1:5000/gene_suggest
 ```
